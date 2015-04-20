@@ -1,5 +1,9 @@
-# affordance
+# affordance plus plus
 The code repository for the Affordance++ project, from Patrik Jonell's repo.
+See http://plopes.org/project/affordance-plus-plus/ for details about this project
+
+## What is in the code
+This code is a web editor for EMS amplitude envelopes. This assumes you are running the same (or similar hardware) than the one we developed for Affordance++ (check details in the paper). The editor is able to create user specific gestures, modulate them, etc.  
 
 ### Install instructions
 
