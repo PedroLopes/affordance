@@ -1,5 +1,5 @@
 # affordance
-The code repository for the Affordance++ master thesis
+The code repository for the Affordance++ project, from Patrik Jonell's repo.
 
 ### Install instructions
 
